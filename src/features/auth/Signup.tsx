@@ -34,7 +34,7 @@ const SignUp = () => {
         }}
       >
         <img
-          src="/assets/images/hoanmy-logo.svg"
+          src="/assets/images/CareSphere-logo.svg"
           width={100}
           height={40}
           style={{ objectFit: "contain", width: "200px" }}

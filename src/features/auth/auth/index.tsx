@@ -346,7 +346,7 @@ export default function SignInSide() {
           }}
         >
           <img
-            src="/assets/images/hoanmy-logo.svg"
+            src="/assets/images/CareSphere-logo.svg"
             alt="Logo"
             style={{ width: "100%", maxWidth: "350px" }}
           />

@@ -10,9 +10,9 @@ function Copyright(props: any) {
           target="_blank"
           rel="noopener noreferrer"
           color="inherit"
-          href="https://hoanmy.com/"
+          href="https://CareSphere.com/"
         >
-          Hoan My
+          CareSphere
         </Link>{" "}
         {new Date().getFullYear()}
         {"."}

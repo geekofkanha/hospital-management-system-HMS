@@ -53,7 +53,7 @@ export default function SessionExpired() {
           >
             <Box component="form" noValidate sx={{ mt: 1 }}>
               <img
-                src="/assets/images/hoanmy-logo.svg"
+                src="/assets/images/CareSphere-logo.svg"
                 width={100}
                 height={40}
                 style={{
